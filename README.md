@@ -1,5 +1,7 @@
 # OCM_Dune - Advanced On-Chain SQL Analytics Infrastructure
 
+This Repo was made public temporarily
+
 [![SQL](https://img.shields.io/badge/SQL-Advanced-blue.svg)](https://www.postgresql.org/)
 [![Dune Analytics](https://img.shields.io/badge/Dune-Analytics-orange.svg)](https://dune.com)
 
